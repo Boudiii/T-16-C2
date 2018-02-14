@@ -2,7 +2,7 @@
   
 # Title: S0
 ## Getting Started:
-      This is the our group's repository
+      This is the our group's repository ////
 Authors:
 
       Name/ID
