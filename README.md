@@ -20,4 +20,6 @@ About:
     Nada -> Age:20
                   Hobbies:Yoga
                    
-             
+Purpose:
+      
+      To learn how to use github and work with strangers
