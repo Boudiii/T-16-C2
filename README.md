@@ -11,8 +11,10 @@ Authors:
         Nada Hammouda/37-3846
 
 About:
+
+
     Abdulrahman -> Age:20
-                   Hobbies: SE
+                   Hobbies: SE & Football
     Mariam -> Age:20
                   Hobbies: pets
     Nada -> Age:20
