@@ -17,10 +17,13 @@ About:
     Abdulrahman -> Age:20
                    Hobbies: SE & Football
     Mariam -> Age:20
-                  Hobbies: pets
+                  Hobbies: pets.
     Nada -> Age:20
                   Hobbies:Food
     Ahmed -> Age:21
                   Hobbies: 1st Person Computer Games
                    
-                   
+
+Purpose:
+      
+      To learn how to use github and work with strangers
