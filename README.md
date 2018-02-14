@@ -13,6 +13,6 @@ About:
     Abdulrahman -> Age:20
                    Hobbies: SE
     Mariam -> Age:20
-                  I love pets
+                  Hobbies: pets
                    
                    
