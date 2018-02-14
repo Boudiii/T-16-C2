@@ -9,6 +9,8 @@ Authors:
         Abdulrahman Hosam/37-8877
         Mariam salama/37-1613
         Nada Hammouda/37-3846
+        Mohamed Hesham/37-13409
+
 About:
 
 
@@ -18,7 +20,8 @@ About:
                   Hobbies: pets.
     Nada -> Age:20
                   Hobbies: Yoga.
-                   
+    Mohamed -> Age:20
+                  Hobbies: Drawing and Reading
                    
 Purpose:
       
