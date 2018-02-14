@@ -14,7 +14,7 @@ About:
     Abdulrahman -> Age:20
                    Hobbies: SE
     Mariam -> Age:20
-                  Hobbies: pets
+                  Hobbies: pets.
     Nada -> Age:20
                   Hobbies:Food
                    
