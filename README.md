@@ -16,6 +16,6 @@ About:
     Mariam -> Age:20
                   Hobbies: pets
     Nada -> Age:20
-                  Hobbies:Food
+                  Hobbies:Yoga
                    
-                   
+             
