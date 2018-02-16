@@ -13,11 +13,7 @@ Authors:
 
 About:
     Abdulrahman -> Age:20
-<<<<<<< HEAD
                    Hobbies: SE & Football & Musc
-=======
-                   Hobbies: SE and Football
->>>>>>> d5fec64... Update README.md
     Mariam -> Age:20
                   Hobbies: pets and series.
     Nada -> Age:20
