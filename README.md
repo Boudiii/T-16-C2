@@ -1,8 +1,8 @@
-
-  
 # Title: S0
-## Getting Started:
-      This is the our group's repository 
+
+## Getting Started
+
+      This is the our group's repository.
 Authors:
 
       Name/ID
@@ -12,8 +12,6 @@ Authors:
         Mohamed Hesham/37-13409
 
 About:
-
-
     Abdulrahman -> Age:20
                    Hobbies: SE & Football & Musc
     Mariam -> Age:20
@@ -22,7 +20,5 @@ About:
                   Hobbies: Yoga.
     Mohamed -> Age:20
                   Hobbies: Drawing and Reading
-                   
 Purpose:
-      
-      To learn how to use github and work with strangers
+      To learn how to use github and work with strangers.
