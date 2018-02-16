@@ -2,7 +2,7 @@
   
 # Title: S0
 ## Getting Started:
-      This is the our group's repository ////
+      This is the our group's repository 
 Authors:
 
       Name/ID
@@ -16,6 +16,7 @@ About:
 
 
     Abdulrahman -> Age:20
+
                    Hobbies: SE and Football
     Mariam -> Age:20
                   Hobbies: pets and series.
@@ -28,6 +29,4 @@ About:
 
                    
 
-Purpose:
-      
-      To learn how to use github and work with strangers
+
