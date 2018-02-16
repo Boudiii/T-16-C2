@@ -3,6 +3,7 @@
 ## Getting Started
 
       This is the our group's repository.
+
 Authors:
 
       Name/ID
@@ -12,6 +13,7 @@ Authors:
         Mohamed Hesham/37-13409
 
 About:
+
     Abdulrahman -> Age:20
                    Hobbies: SE & Football & Musc
     Mariam -> Age:20
